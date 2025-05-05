@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1000,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A novel set in the Roaring Twenties, centered around Jay Gatsby.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0i6GnZqXL8DBtNvQo-WBdG3w0waFrM1okzw&s",
+    "isFavorite": true,
+    "isRead": true
+  },
+  {
+    "id": 1001,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A story of racial injustice in the Deep South through a child's eyes.",
+    "imageUrl": "https://m.media-amazon.com/images/I/81gepf1eMqL.jpg",
+    "isFavorite": false,
+    "isRead": true
+  },
+  {
+    "id": 1002,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian tale about totalitarianism and surveillance.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gXifv2z3NZqeXgXHZnXrAqu1pxaqjSI0Ng&s",
+    "isFavorite": true,
+    "isRead": false
+  },
+  {
+    "id": 1003,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A romantic novel about manners and social status.",
+    "imageUrl": "https://resizing.flixster.com/3J-F0XDYJFRviYtgfyS3VbDPEYQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxYzQ2MGJiLTgxMjgtNGIyYi1iYjVjLTQ5NTVkZGFkOGQyNi5qcGc=",
+    "isFavorite": false,
+    "isRead": false
+  },
+  {
+    "id": 1004,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "description": "A novel about the obsession of Captain Ahab with the white whale Moby-Dick.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kgl5ua80/book/2/6/1/moby-dick-or-the-whale-original-imafwsh4gt7ffufp.jpeg?q=90&crop=false",
+    "isFavorite": true,
+    "isRead": false
+  },
+  {
+    "id": 1005,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A story about the teenage rebellion of Holden Caulfield.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/id/3/32/Rye_catcher.jpg",
+    "isFavorite": true,
+    "isRead": true
+  },
+  {
+    "id": 1006,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "A dystopian novel set in a future where society is engineered into rigid social classes.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BraveNewWorld_FirstEdition.jpg/250px-BraveNewWorld_FirstEdition.jpg",
+    "isFavorite": false,
+    "isRead": true
+  },
+  {
+    "id": 1007,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "A novel about a young man who commits a murder and struggles with guilt.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Crimeandpunishmentcover.png/250px-Crimeandpunishmentcover.png",
+    "isFavorite": true,
+    "isRead": false
+  },
+  {
+    "id": 1008,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "description": "An epic poem about the adventures of Odysseus on his journey home from the Trojan War.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56TzCS7q10rzO5IphyMhh1tbBoKkawNsA5H8D_HGCY_LX4G0&s",
+    "isFavorite": false,
+    "isRead": false
+  },
+  {
+    "id": 1009,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "description": "A novel about the French invasion of Russia and its impact on Tsarist society.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcUnYuy92Zuy7f6EoiH3tQRBa03koIca9rQ&s",
+    "isFavorite": true,
+    "isRead": true
+  }
+]
