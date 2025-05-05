@@ -76,6 +76,13 @@ class _BookFormPageState extends State<BookFormPage> {
       appBar: AppBar(
         backgroundColor: cardColor,
         title: const Text('Add New Book'),
+        titleTextStyle: TextStyle(
+          fontFamily: 'PlayfairDisplay',
+          fontSize: 24,
+          fontWeight: FontWeight.bold,
+          color: theme.colorScheme.primary,
+        ),
+        centerTitle: true,
         elevation: 0,
       ),
       body: Padding(
